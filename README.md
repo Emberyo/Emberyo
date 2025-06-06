@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bentioyo
+- 👋 Hi, I’m @Emberyo
 - 👀 I’m interested in: Coding, Game Creating and Art
 - 🌱 I’m currently (trying to) learn: Japanese, Assembly, C (or C#) and Game making
 - 💞️ I’m looking to collaborate on; null

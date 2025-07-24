@@ -3,7 +3,7 @@
 - 🌱 I’m currently (trying to) learn: Japanese, Assembly, C (or C#) and Game making
 - 💞️ I’m looking to collaborate on; null
 - 📫 How to reach me; null
-- 😄 Pronouns: She/they (may change)
+- 😄 Pronouns: She/They (may change)
 - ⚡ Fun fact: centaurs have 2 rib cages
 
 <!---
